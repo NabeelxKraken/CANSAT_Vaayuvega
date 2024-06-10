@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Gujarat_CANSAT.PrjPcb]
+   Generated File[GUJARAT_FINAL.TXT]
+   Generated File[GUJARAT_FINAL.LDP]
+   Generated File[GUJARAT_FINAL.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 23:57:44 On 24-03-2024

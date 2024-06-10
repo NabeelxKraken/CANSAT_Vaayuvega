@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: GUJARAT_FINAL.PcbDoc   24-03-2024  23:57:43
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : GUJARAT_FINAL.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             5         PTH        3.96inch (100.52mm)
+T2      28mil (0.711mm)                                           Round             2         PTH        0.63inch (16.01mm)
+T3      32mil (0.8mm)                                             Round             22        PTH        3.51inch (89.22mm)
+T4      35mil (0.899mm)                                           Round             53        PTH        13.10inch (332.72mm)
+T5      39mil (0.991mm)                                           Round             4         PTH        0.61inch (15.50mm)
+T6      39mil (1.001mm)                                           Round             12        PTH        4.81inch (122.07mm)
+T7      40mil (1.016mm)                                           Round             34        PTH        4.95inch (125.73mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              132
+
+Total Processing Time (hh:mm:ss) : 00:00:01
